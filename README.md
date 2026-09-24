@@ -61,7 +61,7 @@ via dictionary attack, then unlock the PDF to retrieve the embedded flag.
   is good practice to confirm findings before reporting them.
 
 ## Evidence
-See the [`evidence/`](./evidence) folder for annotated screenshots of every
+screenshots of every step captured and are named
 step: hash extraction, the dictionary attack running, the cracked password,
 both captured flags, and the Johnny/JtR validation run.
 
